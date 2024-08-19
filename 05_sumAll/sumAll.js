@@ -17,7 +17,7 @@ const sumAll = function (min, max) {
         sum += index;
     };
 
-    return sum;
+    return sum
 };
 
 // Do not edit below this line
